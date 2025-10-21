@@ -22,3 +22,9 @@ npm run build
 # GitHub Pages 배포 (gh-pages 사용)
 npm run deploy
 
+## 💬 사용한 프롬프트
+
+> 아래는 ChatGPT(GPT-5)에게 실제로 입력한 프롬프트입니다.
+
+```text
+vue + ts + vite로 한가위에 잘 어울리는 웹페이지를 하나 만들고 싶은데, app.vue 파일 심플하게 하나 만들어줄래?
