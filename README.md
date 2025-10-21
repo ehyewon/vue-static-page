@@ -1,5 +1,24 @@
-# Vue 3 + TypeScript + Vite
+# 🌕 한가위 웹페이지 (Chuseok Festival Page)
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+> [🚀 배포된 페이지 바로가기](https://ehyewon.github.io/vue-static-page/)
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+---
+
+## 📌 프로젝트 개요
+Vue + TypeScript + Vite를 활용하여 제작한 한가위 테마의 정적 웹페이지입니다.  
+달빛 아래 토끼가 떡방아를 찧는 한가위의 따뜻한 분위기를 표현했습니다.
+
+---
+
+## 💻 실행 방법
+
+```bash
+# 개발 서버 실행
+npm run dev
+
+# 빌드
+npm run build
+
+# GitHub Pages 배포 (gh-pages 사용)
+npm run deploy
+
